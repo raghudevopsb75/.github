@@ -14,7 +14,7 @@ This website we use it for learning linux in the first week of training.
 
 #### https://killercoda.com/rkalluru
 
-### ➜➜ SIGN UP TO AWS.
+### ➜➜ SIGN UP TO AWS.🢀 
 
 #### AWS Account SignUP Video :	 https://www.youtube.com/watch?v=JFwAS_8BZvM
 #### AWS Account SignUP URL :	   https://portal.aws.amazon.com/billing/signup#/start/email
