@@ -18,5 +18,5 @@ This website we use it for learning linux in the first week of training.
 
 #### AWS Account SignUP Video :	 https://www.youtube.com/watch?v=JFwAS_8BZvM
 #### AWS Account SignUP URL :	   https://portal.aws.amazon.com/billing/signup#/start/email
-#### AWS Login URL :	   https://console.aws.amazon.com/
+#### AWS Login URL :	   https://us-east-1.console.aws.amazon.com/console/home?region=us-east-1
 
