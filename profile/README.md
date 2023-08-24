@@ -21,4 +21,5 @@ This website we use it for learning linux in the first week of training.
 #### AWS Login URL :	   https://us-east-1.console.aws.amazon.com/console/home?region=us-east-1
 #### How to Create Linux Server in AWS EC2 for our training - https://lucky-hide-390.notion.site/How-to-Create-a-EC2-Server-ad7683b625ed46da80d8a16072cc0e96?pvs=4
 #### Linux Server Username / Password - centos / DevOps321
+#### Putty Download URL - https://the.earth.li/~sgtatham/putty/latest/w64/putty.exe
 
