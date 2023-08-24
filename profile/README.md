@@ -1,3 +1,6 @@
+## First week Lab query session link - https://us06web.zoom.us/j/89399931106
+### Timing 8.30pm IST / 11.00am EST
+
 ### 📼 Youtube Videos : 
 You can watch the videos of the sessions from the following link. This is a Youtube Playlist and everyday video will be updated to the same playlist.
 
