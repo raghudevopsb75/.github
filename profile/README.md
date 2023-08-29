@@ -4,6 +4,11 @@ Feel free to follow your own pattern that works for you, Only expectation is the
 
 ### https://youtu.be/JwqtkS3Qk4k
 
+### Documentation Link:
+We have a project in our training, Also we have some more generic topics documented and all those details are found in this link.
+
+#### https://learndevopsonline.github.io/learndevopsonline/build/docs/category/roboshop-project-setup-documentation/
+
 ### 📼 Youtube Videos : 
 You can watch the videos of the sessions from the following link. This is a Youtube Playlist and everyday video will be updated to the same playlist.
 
