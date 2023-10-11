@@ -4,6 +4,9 @@ Feel free to follow your own pattern that works for you, Only expectation is the
 
 ### https://youtu.be/JwqtkS3Qk4k
 
+### Import Expense Repos
+#### https://github.com/orgs/expenseapp-v1/repositories
+
 ### Documentation Link:
 We have a project in our training, Also we have some more generic topics documented and all those details are found in this link.
 
